@@ -5,32 +5,44 @@
     "source.fixAll.stylelint": true
   },
   "[html]": {
-    "editor.rulers": [79, 120]
+    "editor.rulers": [79, 120],
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
 
   "[vue-html]": {
-    "editor.rulers": [79, 120]
+    "editor.formatOnSave": true,
+    "editor.rulers": [79, 120],
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[css]": {
-    "editor.rulers": [50, 70]
+    "editor.formatOnSave": true,
+    "editor.rulers": [50, 70],
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[scss]": {
-    "editor.rulers": [50, 70]
+    "editor.formatOnSave": true,
+    "editor.rulers": [50, 70],
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[js]": {
     "editor.formatOnSave": true,
-    "editor.rulers": [79, 120]
+    "editor.rulers": [79, 120],
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[javascript]": {
     "editor.formatOnSave": true,
-    "editor.rulers": [79, 120]
+    "editor.rulers": [79, 120],
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[vue]": {
     "editor.formatOnSave": true,
-    "editor.rulers": [79, 120]
+    "editor.rulers": [79, 120],
+    // "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.defaultFormatter": "octref.vetur"
   },
   "[json]": {
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   //stylelint
   "css.validate": false,
