@@ -39,7 +39,7 @@ export default {
   ],
   target: "static",
   router: {
-    base: "/axiemanagertracker.github.io/",
+    base: "/axie-scholartracker.github.io/",
   },
   i18n: {
     locales: [
