@@ -3,11 +3,14 @@
     <div class="container">
       <div class="row">
         <div class="col">
-          <div class="row">
-            <div class="col">
-              <LoginModule />
-            </div>
-            <div class="col"></div>
+          <div class="text-center">
+            <h1>{{ $tc("modules.home.title") }}</h1>
+            <h3>
+              {{ $tc("modules.home.text") }}
+            </h3>
+            <p>
+              {{ $tc("modules.home.note") }}
+            </p>
           </div>
         </div>
       </div>

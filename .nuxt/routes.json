@@ -7,11 +7,25 @@
     "_name": "_72902845"
   },
   {
+    "name": "login___en",
+    "path": "/login",
+    "component": "/home/diego/dev/others/axiemanagertracker.github.io/pages/login/index.vue",
+    "chunkName": "pages/login/index",
+    "_name": "_c3054642"
+  },
+  {
     "name": "test___en",
     "path": "/test",
     "component": "/home/diego/dev/others/axiemanagertracker.github.io/pages/test/index.vue",
     "chunkName": "pages/test/index",
     "_name": "_b614ef9c"
+  },
+  {
+    "name": "login___es",
+    "path": "/es/login",
+    "component": "/home/diego/dev/others/axiemanagertracker.github.io/pages/login/index.vue",
+    "chunkName": "pages/login/index",
+    "_name": "_c3054642"
   },
   {
     "name": "test___es",
