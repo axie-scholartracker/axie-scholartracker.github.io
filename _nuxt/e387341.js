@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{184:function(e){e.exports=JSON.parse('{"language":{"en":"English","es":"Spanish"},"modules":{"login":{"title":"Login","text":"Enter and manage your scholarship recipients","email":"User email","username":"Username","password":"Password","login":"Login"}}}')}}]);
