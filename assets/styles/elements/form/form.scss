@@ -1,0 +1,22 @@
+.app-element__form-input {
+  padding-top: $spacing-4;
+  padding-bottom: $spacing-2;
+}
+
+.app-element__form-button {
+  padding-top: $spacing-4;
+  padding-bottom: $spacing-2;
+  display: flex;
+}
+
+.app-element__form-button--center {
+  justify-content: center;
+}
+
+.app-element__form-button--left {
+  justify-content: flex-start;
+}
+
+.app-element__form-button--right {
+  justify-content: flex-end;
+}

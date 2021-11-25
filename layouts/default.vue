@@ -12,7 +12,7 @@ export default {
 
 <style lang="scss">
 .layout-default {
-  background-color: #0168b0;
+  background-color: $color-base;
   height: 100%;
 }
 </style>

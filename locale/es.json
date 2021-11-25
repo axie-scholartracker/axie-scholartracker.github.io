@@ -1,0 +1,11 @@
+{
+  "language": {
+    "en": "Ingles",
+    "es": "Español"
+  },
+  "modules": {
+    "login": {
+      "title": "Login"
+    }
+  }
+}

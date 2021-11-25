@@ -1,1 +1,30 @@
-$border-radius: 4px;
+// spacing
+$spacing: 4px;
+$spacing-1: $spacing * 1;
+$spacing-2: $spacing * 2;
+$spacing-3: $spacing * 3;
+$spacing-4: $spacing * 4;
+$spacing-5: $spacing * 5;
+$spacing-6: $spacing * 6;
+$spacing-7: $spacing * 7;
+$spacing-8: $spacing * 8;
+$spacing-9: $spacing * 9;
+$spacing-10: $spacing * 10;
+$spacing-11: $spacing * 11;
+$spacing-12: $spacing * 12;
+
+// border-radius
+$border-radius: 12px;
+
+// box-shadow
+$box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+
+// input
+$padding-input: $spacing-3 $spacing-5;
+$border-radius-input: 12px;
+$border-size-input: 2px;
+
+// button
+$padding-button: $spacing-2 $spacing-6;
+$border-size-button: 0px;
+$border-radius-button: 20px;

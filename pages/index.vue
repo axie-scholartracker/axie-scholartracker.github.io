@@ -3,14 +3,11 @@
     <div class="container">
       <div class="row">
         <div class="col">
-          <h1 class="text-center mt-5 mb-4">Axie Infinity Manager Tracker</h1>
           <div class="row">
             <div class="col">
               <LoginModule />
             </div>
-            <div class="col">
-              <LoginModule />
-            </div>
+            <div class="col"></div>
           </div>
         </div>
       </div>

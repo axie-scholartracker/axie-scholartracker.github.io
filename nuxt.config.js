@@ -28,7 +28,7 @@ export default {
     },
   ],
   //...
-  modules: ["@nuxtjs/style-resources"],
+  modules: ["@nuxtjs/style-resources", "@nuxtjs/i18n"],
   styleResources: {
     scss: ["~/assets/styles/globals.scss"],
   },
@@ -40,5 +40,26 @@ export default {
   target: "static",
   router: {
     base: "/axiemanagertracker.github.io/",
+  },
+  i18n: {
+    locales: [
+      {
+        code: "en",
+        translate: "en",
+        flag: "us",
+        file: "en.json",
+      },
+      {
+        code: "es",
+        translate: "es",
+        flag: "es",
+        file: "es.json",
+      },
+    ],
+    lazy: true,
+    langDir: "locale/",
+    defaultLocale: "en",
+    flag: "en",
+    translate: "en",
   },
 };

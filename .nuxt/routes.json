@@ -1,6 +1,27 @@
 [
   {
-    "name": "index",
+    "name": "index___es",
+    "path": "/es",
+    "component": "/home/diego/dev/others/axiemanagertracker.github.io/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_72902845"
+  },
+  {
+    "name": "test___en",
+    "path": "/test",
+    "component": "/home/diego/dev/others/axiemanagertracker.github.io/pages/test/index.vue",
+    "chunkName": "pages/test/index",
+    "_name": "_b614ef9c"
+  },
+  {
+    "name": "test___es",
+    "path": "/es/test",
+    "component": "/home/diego/dev/others/axiemanagertracker.github.io/pages/test/index.vue",
+    "chunkName": "pages/test/index",
+    "_name": "_b614ef9c"
+  },
+  {
+    "name": "index___en",
     "path": "/",
     "component": "/home/diego/dev/others/axiemanagertracker.github.io/pages/index.vue",
     "chunkName": "pages/index",

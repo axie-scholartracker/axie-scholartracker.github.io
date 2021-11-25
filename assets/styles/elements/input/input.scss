@@ -1,0 +1,17 @@
+.app-element__input-label {
+  margin-bottom: $spacing-1;
+  font-size: 0.9rem;
+}
+
+.app-element__input-wrapper {
+  border-radius: $border-radius-input;
+  border: $border-size-input solid;
+}
+
+.app-element__input-wrapper input {
+  width: 100%;
+  padding: $padding-input;
+  border: 0px;
+  background-color: transparent;
+  border-radius: $border-radius-input;
+}
